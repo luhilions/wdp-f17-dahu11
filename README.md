@@ -3,3 +3,5 @@ project 1 and 2 web design
 project3 and 4
 9/26
 project5 and 6
+9/29
+project7 and 8
