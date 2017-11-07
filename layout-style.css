@@ -36,7 +36,8 @@ body {
   background-color: gray; 
  }    
  a:link { 
-  color: blue; 
+  color: blue;
+   font-weight:bold;
  } 
  a:visited { 
   color: green; 
