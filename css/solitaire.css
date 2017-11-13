@@ -13,25 +13,25 @@ left: 25px;
       left: 110px;   
       z-index: 1; 
 }  
-.jc {  
+.jack {  
      position: absolute;   
      top: 100px;  
      left: 110px;   
      z-index: 4; 
 } 
-.ks {  
+.king {  
      position: absolute;   
        top: 60px;  
      left: 110px;   
      z-index: 2; 
 }  
-.qh {  
+.queen {  
      position: absolute;   
      top: 80px;  
      left: 110px;   
      z-index: 3; 
 }  
-.td {  
+.ten {  
      position: absolute;   
      top: 120px;  
      left: 110px;   
